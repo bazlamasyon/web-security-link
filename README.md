@@ -1,4 +1,4 @@
-# web-security-link\n
+# web-security-link\n\r
 
 <a href="ismailsaygili.com.tr/search/label/sql%20ixnjection%20korunma%20fix">İsmail Saygılı</a>\n
 

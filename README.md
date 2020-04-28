@@ -1,5 +1,7 @@
 # web-security-link\r
 
+http://sadievrenseker.com/wp/wp-content/uploads/2018/09/fhuy.pdf
+
 <a href="ismailsaygili.com.tr/search/label/sql%20ixnjection%20korunma%20fix">İsmail Saygılı</a>\n
 
 <a href="https://omercitak.com/page/2/">Ömer Çitak</a>\n
